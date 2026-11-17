@@ -1,0 +1,8 @@
+LIBRO|01|Neuromante|William Gibson|2
+LIBRO|02|El libro de otro lugar|Keanu Reeves y China Miéville|4
+LIBRO|03|El visitante|Stephen King|1
+PERSONA|Estudiante|edison urrego|1026140856|desarrollo de sofware|0
+PERSONA|Docente|sebastian|1018229411|programacion|0
+PRESTAMO|1026140856|03|2026-11-14|2026-11-14
+PRESTAMO|1018229411|02|2026-11-14|
+PRESTAMO|1018229411|01|2026-11-14|
